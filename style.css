@@ -1,0 +1,22 @@
+.btn-primary {
+    color: #f0dc8a !important;
+    background-color: #942826 !important;
+    border-color: #942826 !important;
+    border-radius: 2px !important;
+}
+.nav>li>a:hover {
+    color: #942826 !important;
+    text-decoration: underline !important;
+    /* border-bottom: 1px solid; */
+}
+.flag {
+  width: 40px;
+  float: left;
+  margin-right: 15px;
+}
+
+.country-title {
+  float: left;
+  margin: 0;
+  margin-top: 5px;
+}
